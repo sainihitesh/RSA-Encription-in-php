@@ -1,4 +1,4 @@
-<?php include_once('i.php');
+<?php include_once('../RSA.php');
       ?><center>
 <h1>RSA Encryption</h1>
 <form action='<?php $_SERVER['PHP_SELF']; ?>' method='POST'>
